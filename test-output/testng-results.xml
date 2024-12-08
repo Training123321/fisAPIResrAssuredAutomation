@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T03:03:25 IST" name="BPISuite" finished-at="2024-12-09T03:03:27 IST" duration-ms="2313">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T03:03:25 IST" name="GetBPITest" finished-at="2024-12-09T03:03:27 IST" duration-ms="2313">
+      <class name="api.test.GetBPIsTest">
+        <test-method signature="getBPIdata()[pri:0, instance:api.test.GetBPIsTest@2892d68]" started-at="2024-12-09T03:03:25 IST" name="getBPIdata" finished-at="2024-12-09T03:03:27 IST" duration-ms="2116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBPIdata -->
+      </class> <!-- api.test.GetBPIsTest -->
+    </test> <!-- GetBPITest -->
+  </suite> <!-- BPISuite -->
+</testng-results>
